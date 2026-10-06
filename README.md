@@ -88,13 +88,9 @@
 
 ## 📌 Featured Repositories
 
-### 💻 [repo-name-1]
-One-line description of your first project.
-`Language` • `Topic` • `Topic`
-
-### 🧮 [repo-name-2]
-One-line description of your DSA practice repository.
-`Language` • `DSA` • `Problem Solving`
+### 🎬 [hello-world-initiative](https://github.com/rezedropshipping-sketch/hello-world-initiative)
+An anime web catalog built with Lovable AI for browsing and discovering titles.
+`React` • `Lovable` • `Web App`
 
 ---
 
